@@ -9,7 +9,7 @@ def get_ticket_request(tickets_left):
 
     while True:
         try:
-            tickets_requested = int(input('How many tickets would you like to buy?'))
+            tickets_requested = int(input('How many tickets would you like to purchase today?'))
             if tickets_requested < 1:
                 print('Please enter at least 1 ticket.')
             elif tickets_requested > MAX_TICKETS_PER_BUYER:
