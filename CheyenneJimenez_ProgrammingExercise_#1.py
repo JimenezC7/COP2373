@@ -26,23 +26,23 @@ def get_ticket_request(tickets_left):
 
 def sell_tickets():
     "Sell tickets until all 10 tickets are sold."
-    tickets_remaining = TOTAL_TICKETS
-    total_buyers = 0
+    remaining_tickets = TOTAL_TICKETS
+    buyer_count = 0
 
     print('Cinema Ticket Pre-Sale')
     print('There are 10 tickets available.')
     print('Each buyer can purchase up to 4 tickets.\n')
 
-    while tickets_remaining > 0:
-        print(f'Tickets left: {tickets_remaining}')
-        tickets_requested = get_ticket_request(tickets_remaining)
+    while remaining_tickets > 0:
+        print(f'Tickets left: {remaining_tickets}')
+        tickets_requested = get_ticket_request(remaining_tickets)
 
-        tickets_remaining -= tickets_requested # accumulator/update total remaining
-        total_buyers += 1 # accumulator for buyers
+        remaining_tickets -= tickets_requested # accumulator/update total remaining
+        buyer_count += 1 # accumulator for buyers
 
-        print(f'Purchased {tickets_requested} ticket(s). Tickets remaining: {tickets_remaining}\n')
+        print(f'Purchased {tickets_requested} ticket(s). Tickets remaining: {remaining_tickets}\n')
 
     print('All tickets have been sold')
-    print(f'Total number of ticket buyers: {total_buyers}')
+    print(f'Total number of ticket buyers: {buyer_count}')
 
 sell_tickets()
