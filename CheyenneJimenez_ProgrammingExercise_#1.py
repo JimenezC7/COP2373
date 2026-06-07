@@ -1,5 +1,5 @@
 # Cinema Ticket Pre-Sale
-TOTAL_TICKETS = 20
+TOTAL_TICKETS = 10
 MAX_TICKETS_PER_BUYER = 4
 
 # Each buyer may buy 1 to 4 tickets.
@@ -22,15 +22,15 @@ def get_ticket_request(tickets_left):
             print('Please enter a whole number.')
 
 
-# This program sells up to 20 cinema tickets
+# This program sells up to 10 cinema tickets
 
 def sell_tickets():
-    "Sell tickets until all 20 tickets are sold."
+    "Sell tickets until all 10 tickets are sold."
     tickets_remaining = TOTAL_TICKETS
     total_buyers = 0
 
     print('Cinema Ticket Pre-Sale')
-    print('There are 20 tickets available.')
+    print('There are 10 tickets available.')
     print('Each buyer can purchase up to 4 tickets.\n')
 
     while tickets_remaining > 0:
