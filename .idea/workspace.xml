@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="212574df-5a57-4bdf-ac0e-844941b23a8b" name="Changes" comment="Changed total tickets available from 20 to 10." />
+    <list default="true" id="212574df-5a57-4bdf-ac0e-844941b23a8b" name="Changes" comment="Exercise 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,34 +43,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.CheyenneJimenez_DebuggingExercise_#2.executor": "Run",
-    "Python.CheyenneJimenez_ProgrammingExercise_#1.executor": "Run",
-    "Python.Debugging_Exercise (1).executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Pc/COP2373",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.CheyenneJimenez_DebuggingExercise_#2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CheyenneJimenez_ProgrammingExercise_#1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CheyenneJimenez_ProgrammingExercise_#2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CheyenneJimenez_ProgrammingExercise_#3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Debugging_Exercise (1).executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pc/COP2373&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.python.lsp.core.PyTypeEngineConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Pc\COP2373" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.CheyenneJimenez_ProgrammingExercise_#1">
     <configuration name="CheyenneJimenez_ProgrammingExercise_#1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyCharmMiscProject" />
       <option name="ENV_FILES" value="" />
@@ -87,6 +91,31 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CheyenneJimenez_ProgrammingExercise_#1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CheyenneJimenez_ProgrammingExercise_#3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="COP2373" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/CheyenneJimenez_ProgrammingExercise_#3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +161,13 @@
       <workItem from="1779670117490" duration="3000" />
       <workItem from="1780249145194" duration="5842000" />
       <workItem from="1780872064715" duration="849000" />
-      <workItem from="1780872919995" duration="314000" />
+      <workItem from="1780872919995" duration="2063000" />
+      <workItem from="1781372058214" duration="6645000" />
+      <workItem from="1781458155277" duration="1746000" />
+      <workItem from="1781460123676" duration="607000" />
+      <workItem from="1782076418101" duration="9000" />
+      <workItem from="1782077675217" duration="11000" />
+      <workItem from="1782077695609" duration="590000" />
     </task>
     <task id="LOCAL-00001" summary="Changed total tickets available from 20 to 10.">
       <option name="closed" value="true" />
@@ -150,7 +185,47 @@
       <option name="project" value="LOCAL" />
       <updated>1780873154130</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Changed total tickets available from 20 to 10.">
+      <option name="closed" value="true" />
+      <created>1780873309837</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780873309837</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Changed total tickets available from 20 to 10.">
+      <option name="closed" value="true" />
+      <created>1780873418973</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780873418973</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changed tickets_requested input message.">
+      <option name="closed" value="true" />
+      <created>1780873718218</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780873718218</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Changed accumulator variable names">
+      <option name="closed" value="true" />
+      <created>1780874234334</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1780874234334</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Exercise 2">
+      <option name="closed" value="true" />
+      <created>1781459270090</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1781459270090</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,12 +233,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changed total tickets available from 20 to 10." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed total tickets available from 20 to 10." />
+    <MESSAGE value="Changed tickets_requested input message." />
+    <MESSAGE value="Changed accumulator variable names" />
+    <MESSAGE value="Exercise 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/COP2373$CheyenneJimenez_ProgrammingExercise__1.coverage" NAME="CheyenneJimenez_ProgrammingExercise_#1 Coverage Results" MODIFIED="1779669106694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CheyenneJimenez_ProgrammingExercise__1_py$CheyenneJimenez_ProgrammingExercise__1.coverage" NAME="CheyenneJimenez_ProgrammingExercise_#1 Coverage Results" MODIFIED="1780872098769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CheyenneJimenez_ProgrammingExercise__1_py$CheyenneJimenez_ProgrammingExercise__1.coverage" NAME="CheyenneJimenez_ProgrammingExercise_#1 Coverage Results" MODIFIED="1782077727410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CheyenneJimenez_ProgrammingExercise__1_py$CheyenneJimenez_DebuggingExercise__2.coverage" NAME="CheyenneJimenez_DebuggingExercise_#2 Coverage Results" MODIFIED="1780254726537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/CheyenneJimenez_ProgrammingExercise__1_py$CheyenneJimenez_ProgrammingExercise__2.coverage" NAME="CheyenneJimenez_ProgrammingExercise_#2 Coverage Results" MODIFIED="1781375318590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CheyenneJimenez_ProgrammingExercise__1_py$Debugging_Exercise__1_.coverage" NAME="Debugging_Exercise (1) Coverage Results" MODIFIED="1780253854777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Downloads" />
   </component>
 </project>
